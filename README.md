@@ -5,12 +5,12 @@
 A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages.
 
 # Use 
-Add https://kyleburke.net/standard-notes-open-extended or https://raw.githubusercontent.com/kylejbrk/standard-notes-open-extended/gh-pages/index.json as your Extended Activation Code, and click **Submit Code**. 
+Add https://kprohith.github.io/standard-notes-open-extended/ or https://raw.githubusercontent.com/kprohith/standard-notes-open-extended/gh-pages/index.json as your Extended Activation Code, and click **Submit Code**. 
 
 _Note this currently can only be activated on the Desktop Application_
 
 <p align="center">
-	<img alt="Standard Notes Extension Repository Activation" src="https://github.com/kylejbrk/standard-notes-open-extended/blob/master/assets/activation.png?raw=true" width="80%" />
+	<img alt="Standard Notes Extension Repository Activation" src="https://github.com/kprohith/standard-notes-open-extended/blob/master/assets/activation.png?raw=true" width="80%" />
 </p>
 
 # Features
