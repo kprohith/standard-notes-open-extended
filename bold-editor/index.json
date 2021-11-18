@@ -7,8 +7,8 @@
     "marketing_url": null,
     "name": "Bold Editor",
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/bold.jpg",
-    "version": "1.2.7",
-    "download_url": "https://api.github.com/repos/standardnotes/bold-editor/zipball/1.2.7",
+    "version": "1.2.9",
+    "download_url": "https://api.github.com/repos/standardnotes/bold-editor/zipball/1.2.9",
     "url": "bold-editor/dist/index.html",
     "latest_url": "bold-editor/index.json"
 }
